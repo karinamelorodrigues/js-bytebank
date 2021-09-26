@@ -1,0 +1,26 @@
+{
+  "name": "bytebank",
+  "version": "1.0.0",
+  "description": "Projeto do bytebank para seus clientes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --experimental-specifier-resolution=node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karinamelorodrigues/js-bytebank.git"
+  },
+  "keywords": [
+    "javascript",
+    "objetos",
+    "node"
+  ],
+  "author": "Karina Melo Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karinamelorodrigues/js-bytebank/issues"
+  },
+  "homepage": "https://github.com/karinamelorodrigues/js-bytebank#readme",
+  "type": "module"
+}
